@@ -6,6 +6,8 @@ Here is a proof below
 
 ![AWS CLI IN WINDOWS](assets/Screenshot 2024-05-02 233714.png)
 
+![I DONT KNOW AGAIN](assets/Screenshot 2024-05-02 224817.png)
+
 ## Required Homework
 
 
