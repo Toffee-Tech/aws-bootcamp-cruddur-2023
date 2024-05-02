@@ -4,7 +4,7 @@
 I was able to configure my local machine on Windows
 Here is a proof below
 
-![AWS CLI IN WINDOWS](assets/https://github.com/Toffee-Tech/aws-bootcamp-cruddur-2023/blob/main/assets/Screenshot%202024-05-02%20224817.png)
+![AWS CLI IN WINDOWS](assets/Screenshot%202024-05-02%20224817.png)
 
 ## Required Homework
 
