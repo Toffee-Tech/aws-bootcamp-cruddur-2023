@@ -8,7 +8,7 @@ Here is a proof below
 
 ## Required Homework
 
-```
+
  I designed AWS Architeure Diagram using Lucidchart
 
 ```
