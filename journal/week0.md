@@ -4,7 +4,7 @@
 I was able to configure my local machine on Windows
 Here is a proof below
 
-![AWS CLI IN WINDOWS](assets/Screenshot 2024-05-02 233714.png)
+![AWS CLI IN WINDOWS](assets/Screenshot 2024-05-02 224817.png)
 
 
 ## Required Homework
